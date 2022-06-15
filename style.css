@@ -1,3 +1,7 @@
-p {
+.main {
     color: blue;
+}
+
+.sub {
+    color: blueviolet;
 }
